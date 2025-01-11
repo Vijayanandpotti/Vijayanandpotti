@@ -23,6 +23,13 @@ Analyzed large datasets to identify opportunities for cost savings and process o
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayanandpotti&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayanandpotti&layout=compact&theme=radical)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayanandpotti&show_icons=true&theme=tokyonight)
+
+
+
+
 
 
 <!---
