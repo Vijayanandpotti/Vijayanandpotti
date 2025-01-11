@@ -21,7 +21,8 @@ Analyzed large datasets to identify opportunities for cost savings and process o
 
 📩 Reach me at vijayanandpotti@gmail.com | 📞 +91 88971 11572
 
-https://github-readme-stats.vercel.app/api?username=your-vijayanandpotti_icons=true&theme=radical
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayanandpotti&show_icons=true&theme=radical)
+
 
 
 <!---
